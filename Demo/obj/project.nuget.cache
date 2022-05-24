@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "x+EGbvhu8hdc+9BQNyR5CN0Uwllk44GsTuWL+0MHglHuStqw/hKpWOHW2bLJhlTOUmaoRk9SoXvnLO749tixEA==",
+  "dgSpecHash": "PCG5TnD1mKuVTmtB1930zu5Xiha335AxPuepiQzby/7vywWot4SW5fIT/ePk5ayunbRIrfCh7U704i0UKfQKxw==",
   "success": true,
-  "projectFilePath": "/Users/hogan/Library/CloudStorage/OneDrive-Personal/CAB301/Demo/Demo/Demo/Demo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/hogan/Desktop/hello-world/Demo/Demo.csproj",
+  "expectedPackageFiles": [
+    "/Users/hogan/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hogan/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/hogan/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
